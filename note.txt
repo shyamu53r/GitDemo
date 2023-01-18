@@ -1,3 +1,5 @@
 This is new Text file
 This is merge demo
 this 2nd line
+this rebase demo
+This rebase demo2
